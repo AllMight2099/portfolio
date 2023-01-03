@@ -8,6 +8,9 @@ tech:
   - Raft
   - Platform As a Service (PaaS)
 showInProjects: true
+ios: ''
+android: ''
+cta: ''
 ---
 
 An Intelligent Platform as a Service, along the lines of AWS Elastic Beanstalk

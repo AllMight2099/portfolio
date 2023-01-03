@@ -1,15 +1,13 @@
 ---
 date: '1'
-title: 'Gaspper'
-# cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Gasper'
+cover: './sws.png'
+github: 'https://github.com/sdslabs/gasper'
+external: ''
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Golang
+  - BadgerDB
+  - Raft
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Gasper is an intelligent Platform as a Service (PaaS) used for deploying and managing applications and databases in any cloud topology. A lightweight version of Elastic Beanstalk, if you want to put it that way
