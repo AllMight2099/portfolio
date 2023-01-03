@@ -135,30 +135,34 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello there! I'm Nishanth and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello there! I'm Nishanth, a final year undergrad at the Indian Institute of
+              Technology, Roorkee. My interest in computer science started back when I was a kid and
+              was hacking about on my uncle's laptop for the first time. Few years later, I would
+              decide to then pursue Computer Science as my field of work.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">SDSLabs</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              <a href="https://sdslabs.co/" target="_blank" rel="noopener noreferrer">
+                SDSLabs
+              </a>
+              , ,a student-run technical group where we build production level software to learn and
+              experiment with new concepts. As a developer at SDSLabs, I've not only worked on a
+              wide range of projects ranging from topics such as Cloud Computing, Game Development,
+              Operating Systems, etc. I've also worked at multiple startups: -{' '}
+              <a href="https://hevodata.com" target="_blank" rel="noopener noreferrer">
+                Hevo Data
+              </a>
+              ,{' '}
+              <a href="https://mudrex.com" target="_blank" rel="noopener noreferrer">
+                Mudrex
+              </a>
+              , and{' '}
+              <a href="https://uniacco.com" target="_blank" rel="noopener noreferrer">
+                UniAcco
+              </a>
+              . My main focus these days is building robust systems to automate the boring stuff,
+              low level systems programming and microservice based software
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

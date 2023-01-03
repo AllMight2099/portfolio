@@ -61,12 +61,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Nishanth R.</h2>;
-  const three = <h3 className="big-heading">I build tools for developers.</h3>;
+  const three = <h3 className="big-heading">I build tools and automate stuff.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer with an interest in building amazing tools to make people's lives a
-        lot easier and robust distributed systems. .
+        I’m a software engineer with an interest in building software to make people's lives a lot
+        easier. I also love to work on systems which I can automate to make my life easier.
       </p>
     </>
   );

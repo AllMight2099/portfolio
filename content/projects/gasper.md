@@ -1,5 +1,5 @@
 ---
-date: '2022-01-01'
+date: '2022-12-31'
 title: 'Gasper'
 github: 'https://github.com/sdslabs/gasper/'
 tech:
@@ -11,6 +11,7 @@ showInProjects: true
 ios: ''
 android: ''
 cta: ''
+company: 'SDSLabs'
 ---
 
 An Intelligent Platform as a Service, along the lines of AWS Elastic Beanstalk

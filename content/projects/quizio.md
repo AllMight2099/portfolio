@@ -1,15 +1,15 @@
 ---
-date: '3'
+date: '2022-1-31'
 title: 'Quizio'
-cover: './demo.png'
-github: #'https://github.com/sdslabs/Quizio'
-external: '' #
+github: '' #'https://github.com/sdslabs/quizio/'
 tech:
   - React
   - Zustand
   - Express
   - TypeScript
   - MongoDB
+showInProjects: true
+company: 'SDSLabs'
 ---
 
 SDSLabs' inhouse quizzing platform built to conduct quizzes and tests among the students of IIT-R.

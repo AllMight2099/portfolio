@@ -9,7 +9,7 @@ tags:
   - Dark Mode
 ---
 
-Dark mode toggle without the flash of default theme. Important bits:
+<!-- Dark mode toggle without the flash of default theme. Important bits:
 
 - CSS variables for color theming
 - Put `data-theme` attribute on `<html>`, not `<body>`, so we can run the JS before the DOM finishes rendering
@@ -48,10 +48,12 @@ Dark mode toggle without the flash of default theme. Important bits:
           <use xlink:href="#moon"></use>
         </svg>
         -->
+
       </button>
     </div>
 
     <script src="app.js"></script>
+
   </body>
 </html>
 ```
@@ -96,4 +98,4 @@ const onToggleClick = () => {
 - <https://css-tricks.com/flash-of-inaccurate-color-theme-fart/>
 - <https://mxb.dev/blog/color-theme-switcher/>
 - <https://www.joshwcomeau.com/react/dark-mode/>
-- <https://web.dev/prefers-color-scheme/>
+- <https://web.dev/prefers-color-scheme/> -->
