@@ -135,21 +135,22 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello there! I'm Nishanth, a final year undergrad at the Indian Institute of
-              Technology, Roorkee. My interest in computer science started back when I was a kid and
-              was hacking about on my uncle's laptop for the first time. Few years later, I would
-              decide to then pursue Computer Science as my field of work.
+              Hello there! I'm Nishanth, a final-year undergrad at the Indian Institute of
+              Technology, Roorkee. My interest in computer science started when I was a kid and was
+              hacking about on a laptop for the first time. But even then, deep down, I always knew
+              I'd pick Computer Science as my main field of work down the lane.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              Fast-forward to today where I’ve had the privilege of working at{' '}
               <a href="https://sdslabs.co/" target="_blank" rel="noopener noreferrer">
                 SDSLabs
               </a>
-              , ,a student-run technical group where we build production level software to learn and
-              experiment with new concepts. As a developer at SDSLabs, I've not only worked on a
-              wide range of projects ranging from topics such as Cloud Computing, Game Development,
-              Operating Systems, etc. I've also worked at multiple startups: -{' '}
+              , a student-run technical group where we build production-level software to learn and
+              experiment with new concepts. We also help propagate the culture of open source
+              throughout our campus. As a developer at SDSLabs, I've not only worked on a wide range
+              of projects ranging from topics such as Cloud Computing, Game Development, Operating
+              Systems, etc. I've also worked at multiple startups:{' '}
               <a href="https://hevodata.com" target="_blank" rel="noopener noreferrer">
                 Hevo Data
               </a>
@@ -162,7 +163,7 @@ const About = () => {
                 UniAcco
               </a>
               . My main focus these days is building robust systems to automate the boring stuff,
-              low level systems programming and microservice based software
+              low-level systems programming, and microservice-based software.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
