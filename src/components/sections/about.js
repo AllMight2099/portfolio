@@ -136,7 +136,7 @@ const About = () => {
           <div>
             <p>
               Hello there! I'm Nishanth, a final-year undergrad at the Indian Institute of
-              Technology, Roorkee. My interest in computer science started when I was a kid and was
+              Technology, Roorkee. I've had an interest in Computer Science since I was a kid,
               hacking about on a laptop for the first time. But even then, deep down, I always knew
               I'd pick Computer Science as my main field of work down the lane.
             </p>
