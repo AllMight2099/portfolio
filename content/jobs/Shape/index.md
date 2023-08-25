@@ -11,4 +11,3 @@ url: 'https://shape.xyz/'
 - Led the development of the cloud-hosted version of Shape alongside the existing on-prem solution
 - Developed user-friendly scripts to deploy Shape onto GCP and Helm Charts to deploy Shape onto EKS
 - Implemented support for alembic for effortless database migrations
-- Orchestrated zero-traffic deployments to GCP using GitHub actions
