@@ -3,7 +3,7 @@ date: '2020-02-15'
 title: 'Developer'
 company: 'SDSLabs'
 location: 'IIT Roorkee'
-range: 'January 2020 - Present'
+range: 'January 2020 - May 2024'
 url: 'https://sdslabs.co/'
 ---
 
