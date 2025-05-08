@@ -2,11 +2,13 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/AllMight2099/portfolio/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  nishanth.software
+  nishanthramamurthy.com
 </h1>
 <p align="center">
-  My portfolio hosted at <a href="https://nishanth.software" target="_blank">nishanth.software</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with Github Pages
+  My portfolio hosted at <a href="https://nishanthramamurthy.com" target="_blank">nishanthramamurthy.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with Github Pages
 </p>
+
+Forked from [Brittany Chiang](https://brittanychiang.com)
 
 ## 🛠 Installation & Set Up
 
@@ -47,7 +49,3 @@
    ```sh
    npm run serve
    ```
-
-### Credits
-
-[Brittany Chiang](https://brittanychiang.com)
