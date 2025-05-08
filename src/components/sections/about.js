@@ -61,7 +61,6 @@ const StyledPic = styled.div`
     position: relative;
     width: 100%;
     border-radius: var(--border-radius);
-    background-color: var(--green);
 
     &:hover,
     &:focus {
@@ -135,14 +134,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello there! I'm Nishanth, a final-year undergrad at the Indian Institute of
-              Technology, Roorkee. I've had an interest in Computer Science since I was a kid,
-              hacking about on a laptop for the first time. But even then, deep down, I always knew
-              I'd pick Computer Science as my main field of work down the lane.
+              Hello there! I'm Nishanth, a undergrad from Indian Institute of Technology, Roorkee.
+              I've had an interest in Computer Science since I was a kid, hacking about on a laptop
+              for the first time. But even then, deep down, I always knew I'd pick Computer Science
+              as my main field of work down the lane.
             </p>
 
             <p>
-              Fast-forward to today where I’ve had the privilege of working at{' '}
+              Fast-forward to today where I had the privilege of working at{' '}
               <a href="https://sdslabs.co/" target="_blank" rel="noopener noreferrer">
                 SDSLabs
               </a>
