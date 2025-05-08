@@ -3,7 +3,7 @@ date: '2023-08-25'
 title: 'Software Engineer'
 company: 'Shape'
 location: 'Remote'
-range: 'June 2023 - Present'
+range: 'June 2023 - October 2023'
 url: 'https://shape.xyz/'
 ---
 
