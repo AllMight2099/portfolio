@@ -13,10 +13,10 @@ const button = css`
   transition: var(--transition);
 
   &:hover,
-  &:focus-visible {
+  &:focus,
+  &:active {
+    background-color: var(--green-tint);
     outline: none;
-    box-shadow: 4px 4px 0 0 var(--green);
-    transform: translate(-5px, -5px);
   }
   &:after {
     display: none !important;
