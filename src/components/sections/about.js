@@ -101,7 +101,6 @@ const StyledPic = styled.div`
       left: 0;
       background-color: var(--navy);
       mix-blend-mode: screen;
-      opacity: 0.2;
     }
 
     &:after {
