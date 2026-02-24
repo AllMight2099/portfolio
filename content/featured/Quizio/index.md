@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '4'
 title: 'Quizio'
 cover: './demo.png'
 github: #'https://github.com/sdslabs/Quizio'

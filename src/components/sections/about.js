@@ -165,7 +165,7 @@ const About = () => {
               <a href="https://mudrex.com" target="_blank" rel="noopener noreferrer">
                 Mudrex (YC W19)
               </a>
-              ,{' '}
+              ,
               <a href="https://uniacco.com" target="_blank" rel="noopener noreferrer">
                 UniAcco
               </a>
@@ -173,10 +173,10 @@ const About = () => {
               <a href="https://shape.xyz/" target="_blank" rel="noopener noreferrer">
                 Shape (YC S21)
               </a>
-              , and{' '}
+              and{' '}
               <a href="https://singlestore.com" target="_blank" rel="noopener noreferrer">
                 Singlestore
-              </a>
+              </a>{' '}
               where I worked on a variey of projects, all of which I have enjoyed thoroughly.
             </p>
 
