@@ -24,7 +24,7 @@ const StyledText = styled.div`
     grid-template-columns: repeat(2, minmax(140px, 200px));
     grid-gap: 0 10px;
     padding: 0;
-    margin: 20px 0 0 0;
+    margin: 17px 0 0 0;
     overflow: hidden;
     list-style: none;
 
@@ -80,7 +80,6 @@ const StyledPic = styled.div`
     .img {
       position: relative;
       border-radius: var(--border-radius);
-      mix-blend-mode: soft-light;
       filter: grayscale(50%) contrast(1);
       transition: var(--transition);
     }
@@ -101,6 +100,7 @@ const StyledPic = styled.div`
       left: 0;
       background-color: var(--navy);
       mix-blend-mode: screen;
+      opacity: 0.15;
     }
 
     &:after {
