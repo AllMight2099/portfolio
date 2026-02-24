@@ -80,8 +80,8 @@ const StyledPic = styled.div`
     .img {
       position: relative;
       border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1);
+      mix-blend-mode: normal;
+      filter: grayscale(35%) contrast(1.05);
       transition: var(--transition);
     }
 
@@ -101,6 +101,7 @@ const StyledPic = styled.div`
       left: 0;
       background-color: var(--navy);
       mix-blend-mode: screen;
+      opacity: 0.2;
     }
 
     &:after {
