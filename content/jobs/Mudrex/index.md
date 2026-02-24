@@ -1,7 +1,7 @@
 ---
 date: '2022-09-09'
 title: 'Platform Engineering Intern'
-company: 'Mudrex'
+company: 'Mudrex (YC W19)'
 location: 'Bangalore, India'
 range: 'June - September 2022'
 url: 'https://mudrex.com/'

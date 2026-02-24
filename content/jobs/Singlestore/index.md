@@ -7,12 +7,7 @@ range: 'December 2023 - August 2025'
 url: 'https://singlestore.com/'
 ---
 
-- Augmented the Invoicing and Billing system to support Pay-As-You-Go Credit Commitments, enabling flexible, incremental credit purchases and improving adoption among enterprise customers such as Goldman Sachs and 6sense.
-- Created and enhanced the billing actions page to streamline workflows, enabling the billing team to efficiently save drafts and monitor the
-  status of sent invoices.
+- Augmented the Invoicing and Billing system to support Pay-As-You-Go Credit Commitments, enabling flexible, incremental credit purchases and improving adoption among enterprise customers such as Goldman Sachs and 6sense
+- Created and enhanced the billing actions page to allow for the billing team to monitor invoice statuses and perform billing related actions easliy.
 - Increased fault tolerance of posting usage to the new billing service by implementing a resilient job handling mechanism.
-- Engineered the generation and migration of over 7k+ invoices using historical usage data collected over several years, transitioning them from
-  PostgreSQL to the new billing service and improving platform performance by 30%.
-- Investigated and resolved issues with orphaned Kubernetes pods leaking into CI pipelines, reducing resource drain and improving infrastructure
-  reliability.
-- Fixed multiple flaky and outdated tests, restoring reliability to previously skipped tests and improving overall CI pipeline consistency.
+- Engineered the migration of over 7k+ invoices using historical usage data collected over several years to a new billing service

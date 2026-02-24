@@ -135,11 +135,11 @@ const About = () => {
             <p>
               Hey there! I'm Nishanth, a Master of Software Engineering student at Carnegie Mellon
               University. I've had an interest in Computer Science ever since I was a kid, hacking
-              about on a desktop computer for the first time. But even then, deep down, I always
-              knew I'd pick Computer Science as my main field of work down the lane. It's something
-              that comes to me naturally and something that I find myself doing in my free time as
-              well. I read research papers, watch techincal talks and letures and tinker with
-              different technologies through my projects.
+              about on a desktop computer for the first time. Deep down, I've always known I'd pick
+              Computer Science as my main field of work. It's something that comes to me naturally
+              and something that I find myself doing in my free time as well. I read research
+              papers, watch techincal talks and letures and tinker with different technologies
+              through my projects.
             </p>
 
             <p>
