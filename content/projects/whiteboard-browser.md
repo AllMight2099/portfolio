@@ -5,8 +5,6 @@ github: 'https://github.com/AllMight2099/whiteboard-browser'
 tech:
   - Rust
   - Iced.rs
-  - React
-  - Redux
 showInProjects: true
 ---
 
