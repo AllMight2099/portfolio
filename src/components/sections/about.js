@@ -81,7 +81,7 @@ const StyledPic = styled.div`
       position: relative;
       border-radius: var(--border-radius);
       mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1) brightness(90%);
+      filter: grayscale(100%) contrast(1);
       transition: var(--transition);
     }
 
@@ -101,7 +101,6 @@ const StyledPic = styled.div`
       left: 0;
       background-color: var(--navy);
       mix-blend-mode: screen;
-      opacity: 0.2;
     }
 
     &:after {
