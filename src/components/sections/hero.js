@@ -67,7 +67,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Master of Softwrare Engineering @ Carnegie Mellon. <br />
+        Master of Software Engineering @ Carnegie Mellon. <br />
         I'm into Databases, Distributed Systems and Deterministic Simulation Testing.
       </p>
     </>
