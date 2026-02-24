@@ -3,7 +3,7 @@ date: '1'
 title: 'Whiteboard Browser'
 # cover: './sws.png'
 github: 'https://github.com/AllMight2099/whiteboard-browser'
-external: ''
+external: 'https://github.com/AllMight2099/whiteboard-browser'
 tech:
   - Rust
   - Iced.rs

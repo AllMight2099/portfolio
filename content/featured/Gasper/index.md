@@ -3,7 +3,7 @@ date: '2'
 title: 'Gasper'
 cover: './sws.png'
 github: 'https://github.com/sdslabs/gasper'
-external: ''
+external: 'https://github.com/sdslabs/gasper'
 tech:
   - Golang
   - BadgerDB

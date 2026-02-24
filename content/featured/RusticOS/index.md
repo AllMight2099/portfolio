@@ -3,7 +3,7 @@ date: '3'
 title: 'Rustic OS'
 cover: './demo.png'
 github: 'https://github.com/sdslabs/rusticos'
-external: ''
+external: 'https://github.com/sdslabs/rusticos'
 tech:
   - Rust
 ---

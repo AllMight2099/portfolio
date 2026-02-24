@@ -3,7 +3,7 @@ date: '4'
 title: 'Quizio'
 cover: './demo.png'
 github: #'https://github.com/sdslabs/Quizio'
-external: '' #
+external: 'https://quizio.sdslabs.co.in'
 tech:
   - React
   - Zustand
