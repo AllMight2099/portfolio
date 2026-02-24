@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Whiteboard Browsewr'
+title: 'Whiteboard Browser'
 # cover: './sws.png'
 github: 'https://github.com/AllMight2099/whiteboard-browser'
 external: ''
