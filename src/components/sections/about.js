@@ -105,8 +105,8 @@ const StyledPic = styled.div`
 
     &:after {
       border: 2px solid var(--green);
-      top: 20px;
-      left: 20px;
+      top: 14px;
+      left: 14px;
       z-index: -1;
     }
   }
@@ -124,7 +124,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Go', 'Kubernetes', 'Amazon Web Services', 'Python', 'Rust', 'JavaScript (ES6+)'];
+  const skills = ['Go', 'Rust', 'Firecracker MicroVMs', 'Python', 'Kubernetes'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,35 +134,55 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello there! I'm Nishanth, a undergrad from Indian Institute of Technology, Roorkee.
-              I've had an interest in Computer Science since I was a kid, hacking about on a laptop
-              for the first time. But even then, deep down, I always knew I'd pick Computer Science
-              as my main field of work down the lane.
+              Hey there! I'm Nishanth, a Master of Software Engineering student at Carnegie Mellon
+              University. I've had an interest in Computer Science ever since I was a kid, hacking
+              about on a desktop computer for the first time. But even then, deep down, I always
+              knew I'd pick Computer Science as my main field of work down the lane. It's something
+              that comes to me naturally and something that I find myself doing in my free time as
+              well. I read research papers, watch techincal talks and letures and tinker with
+              different technologies through my projects.
             </p>
 
             <p>
-              Fast-forward to today where I had the privilege of working at{' '}
+              During my undergradudate studies at IIT Roorkee, where I had the privilege of working
+              at{' '}
               <a href="https://sdslabs.co/" target="_blank" rel="noopener noreferrer">
                 SDSLabs
               </a>
               , a student-run technical group where we build production-level software to learn and
-              experiment with new concepts. We also help propagate the culture of open source
-              throughout our campus. As a developer at SDSLabs, I've not only worked on a wide range
-              of projects ranging from topics such as Cloud Computing, Game Development, Operating
-              Systems, etc. I've also worked at multiple startups:{' '}
+              experiment with new concepts. We also helped propagate the culture of open source
+              throughout our campus. As a developer at SDSLabs, I've worked on a wide range of
+              projects ranging from topics such as Cloud Computing, Game Development and Operating
+              Systems.
+            </p>
+
+            <p>
+              I've also worked at multiple startups:{' '}
               <a href="https://hevodata.com" target="_blank" rel="noopener noreferrer">
                 Hevo Data
               </a>
               ,{' '}
               <a href="https://mudrex.com" target="_blank" rel="noopener noreferrer">
-                Mudrex
+                Mudrex (YC W19)
               </a>
-              , and{' '}
+              ,{' '}
               <a href="https://uniacco.com" target="_blank" rel="noopener noreferrer">
                 UniAcco
               </a>
-              . My main focus these days is building robust systems to automate the boring stuff,
-              low-level systems programming, and microservice-based software.
+              ,{' '}
+              <a href="https://shape.xyz/" target="_blank" rel="noopener noreferrer">
+                Shape (YC S21)
+              </a>
+              , and{' '}
+              <a href="https://singlestore.com" target="_blank" rel="noopener noreferrer">
+                Singlestore
+              </a>
+              where I worked on a variey of projects, all of which I have enjoyed thoroughly.
+            </p>
+
+            <p>
+              My main focus right now is databases, distributed systems and deterministic simulation
+              testing.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
