@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         Master of Softwrare Engineering @ Carnegie Mellon. <br />
-        I'm into Databases, Distributed Systems and Deterministi Simulation Testing.
+        I'm into Databases, Distributed Systems and Deterministic Simulation Testing.
       </p>
     </>
   );
