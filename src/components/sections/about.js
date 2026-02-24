@@ -164,8 +164,7 @@ const About = () => {
               ,{' '}
               <a href="https://mudrex.com" target="_blank" rel="noopener noreferrer">
                 Mudrex (YC W19)
-              </a>
-              ,{' '}
+              </a>{' '}
               <a href="https://uniacco.com" target="_blank" rel="noopener noreferrer">
                 UniAcco
               </a>
